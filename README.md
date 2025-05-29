@@ -1,3 +1,3 @@
 # Résumé
 
-*Markdown version coming soon*
+*Markdown version coming soon!*
